@@ -161,14 +161,14 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data=="help":
         buttons = [
             [
-                InlineKeyboardButton("🔥 ѕουяϲє ϲο∂є 🔥", url='https://github.com/@s780821/HANGOVER_RADIO'),
+                InlineKeyboardButton("🔥 ѕουяϲє ϲο∂є 🔥", url='https://github.com/@imnikkkk/CrazyCrewHour_RADIO'),
             ],
             [
-               InlineKeyboardButton('👥 ѕυρροяτ gяουρ', url='https://t.me/xmarty_Support'),
-               InlineKeyboardButton('ϲнιτϲнατ gяουρ', url='https://t.me/welcomefriendclub'),
+               InlineKeyboardButton('👥 ѕυρροяτ gяουρ', url='https://t.me/CCHour'),
+               InlineKeyboardButton('ϲнιτϲнατ gяουρ', url='https://t.me/CCHour'),
             ],
             [
-               InlineKeyboardButton('🔰 οωиєя 🔰', url='https://t.me/xmarteperson'),
+               InlineKeyboardButton('🔰 οωиєя 🔰', url='https://t.me/imnikkkk),
         
             ]
         ]
