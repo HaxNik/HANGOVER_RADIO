@@ -1017,7 +1017,7 @@ async def yt_play_list(client, m: Message):
                 markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("Join My Chitchat group", url='https://t.me/welcomefriendclub')
+                            InlineKeyboardButton("Join My Chitchat group", url='https://t.me/cchour')
                         ],
                         [
                             InlineKeyboardButton("🔄 Try Again", url=f"https://telegram.me/GetAPlayListBot?start=S780821_{m.from_user.id}")
@@ -1315,8 +1315,8 @@ async def not_chat(_, m: Message):
             InlineKeyboardButton('🆘 нєℓρ & ϲοммѕи∂ѕ 🆘', callback_data='help'),       
         ],
         [
-            InlineKeyboardButton('👨‍💻 ∂єνєℓορєя', url='https://t.me/Xmarty_Support'),
-            InlineKeyboardButton('ϲнιτϲнατ gяουρ', url='https://t.me/welcomefriendclub')
+            InlineKeyboardButton('👨‍💻 ∂єνєℓορєя', url='https://t.me/CCHour'),
+            InlineKeyboardButton('ϲнιτϲнατ gяουρ', url='https://t.me/CCHour')
         ]
         ]
     k=await m.reply("<b>You can't use this bot in this group, for that you have to make your own bot from the [Soure Code 👈](https://github.com/S780821/HANGOVER_RADIO) below.</b>", disable_web_page_preview=True, reply_markup=InlineKeyboardMarkup(buttons))
