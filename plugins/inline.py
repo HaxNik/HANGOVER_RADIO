@@ -21,11 +21,11 @@ from config import Config
 REPLY_MESSAGE=Config.REPLY_MESSAGE
 buttons = [
     [
-        InlineKeyboardButton('🏃 ∂єρℓογ το нєяοκυ 🏃', url='https://heroku.com/deploy?template=https://github.com/S780821/HANGOVER_RADIO'),
+        InlineKeyboardButton('🏃 ∂єρℓογ το нєяοκυ 🏃', url='https://heroku.com/deploy?template=https://github.com/imnikkkk/CrazyCrewHour_RADIO'),
     ],
     [
         InlineKeyboardButton('👨‍🎤 ρℓαγ мυѕιϲ', url=f'https://t.me/{USERNAME}'),
-        InlineKeyboardButton('οωиєя🤓', url='https://t.me/xmartperson'),
+        InlineKeyboardButton('οωиєя🤓', url='https://t.me/imnikkkk),
     ],
     [
         InlineKeyboardButton('🆘 нєℓρ & ϲοммαи∂ѕ 🆘', callback_data='help')       
