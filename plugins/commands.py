@@ -59,11 +59,11 @@ HELP = """
 async def start(client, message):
     buttons = [
         [
-        InlineKeyboardButton("🔥 Sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🔥", url='https://github.com/S780821/HANGOVER_RADIO'),
+        InlineKeyboardButton("🔥 Sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🔥", url='https://github.com/imnikkkk/CrazyCrewHour_RADIO'),
     ],
     [
-        InlineKeyboardButton('👥 Sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/xmarty_support'),
-        InlineKeyboardButton('ᴄʜɪᴛᴄʜaᴛ ɢʀᴏᴜᴘ', url='https://t.me/welcomefriendclub'),
+        InlineKeyboardButton('👥 Sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/CCHour'),
+        InlineKeyboardButton('ᴄʜɪᴛᴄʜaᴛ ɢʀᴏᴜᴘ', url='https://t.me/CCHour'),
     ],
     [
         InlineKeyboardButton('🆘 ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs 🆘', callback_data='help'),
@@ -80,14 +80,14 @@ async def start(client, message):
 async def show_help(client, message):
     buttons = [
         [
-            InlineKeyboardButton("🔥 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🔥", url='https://github.com/S780821/HANGOVER_RADIO'),
+            InlineKeyboardButton("🔥 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🔥", url='https://github.com/imnikkkk/CrazyCrewHour_RADIO'),
         ],
         [
-            InlineKeyboardButton('👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/xmarty_support'),
-            InlineKeyboardButton('ᴄʜɪᴛᴄʜᴀᴛ ɢʀᴏᴜᴘ ', url='https://t.me/welcomefriendclub'),
+            InlineKeyboardButton('👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/CCHour'),
+            InlineKeyboardButton('ᴄʜɪᴛᴄʜᴀᴛ ɢʀᴏᴜᴘ ', url='https://t.me/CCHour'),
         ],
         [
-            InlineKeyboardButton('🗡️ ᴏᴡɴᴇʀ 🗡️', url='https://t.me/Xmartperson'),
+            InlineKeyboardButton('🗡️ ᴏᴡɴᴇʀ 🗡️', url='https://t.me/imnikkkk),
         
         ]
     ]
